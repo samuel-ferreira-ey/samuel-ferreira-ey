@@ -1,4 +1,4 @@
-# Samuel Ferreira
+![header](https://capsule-render.vercel.app/api?type=waving&color=1d4786&height=100&section=header&text=Samuel%20Ferreira&fontSize=32&fontColor=fff&fontAlignY=40)
 
 **`Software Architect`**
 
